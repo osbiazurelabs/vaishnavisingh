@@ -1,0 +1,9 @@
+{
+	"name": "Dev-onprmises-dataload-vsingh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c1d0035b-a75e-43e3-a961-4b179c1fdcb9",
+		"tenantId": "0223fd63-dec0-4282-accb-460fb4f20168"
+	}
+}
